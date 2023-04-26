@@ -1,0 +1,6 @@
+print("hello i am saikiran from rampoor from the rate of change of its momentum is called as the rate")
+print("this is my first program in the python")
+print("saikiran")
+print(10+2)
+print(12-3)
+print(80/2)
